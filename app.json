@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "cibo-mobile",
-    "slug": "cibo-mobile",
+    "name": "cibo",
+    "slug": "cibo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
